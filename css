@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap");
+
+* {
+  margin: 0;
+  font-family: Montserrat;
+}
+
+.navbar {
+  margin: auto;
+  width: 95%;
+  padding: 35px, 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  padding-left: 0px;
+  width: 60px;
+  cursor: pointer;
+}
+
+.navbar {
+  padding-top: 20px;
+}
+
+.navbar ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px, 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: #00074e;
+  margin: 20px;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.navbar ul li a:hover {
+  color: blue;
+  -webkit-transition: all 500ms ease;
+}
