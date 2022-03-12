@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="hr">
+    <head>
+        <title>PI: GKP</title>
+        <link rel="stylesheet", href="css.css">
+    </head>
+
+    <body>
+        <div class="background">
+            <div class="navbar">
+                <img src="logo.png", class="logo">
+                <ul>
+                    <li> <a href="#"> POČETNA </a> </li>
+                    <li> <a href="#"> O NAMA </a> </li>
+                    <li> <a href="#"> NARUČI! </a> </li>
+                    <li> <a href="#"> KONTAKT </a> </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
